@@ -1,4 +1,22 @@
-### Hello I'm Jorge Cuellar ![image](https://user-images.githubusercontent.com/46494068/163283658-a39de142-796d-47d4-b6a3-783611df3af2.png)
+Hello I'm Jorge Cuellar ![bot (2)](https://user-images.githubusercontent.com/46494068/163283955-144df29c-3421-4fc8-b21d-fad82267b898.png)
+
+ I am currently doing professional internships.
+ 
+
+
+Code:  Java( Basic ),  HTML( medium ),  CSS ( medium ),  Python ( Coming Soon )
+
+BD:  SQL ( Basic ),  NoSQL ( Basic )
+
+Tools: visual studio code, Azure
+
+Area: Frontend, Backend, Cloud
+
+Hackathon: Nasa Space Apps, Cyber IA 
+
+
+
+
 
 
 <!--
