@@ -13,7 +13,7 @@
 
 ![hackathon](https://user-images.githubusercontent.com/46494068/163288068-37a06c8e-c929-4b58-919b-47cb8e44cd4d.png) &ensp; Hackathon: Nasa Space Apps, Cyber IA 
 
-<br><br><br><br>
+<br><br>
 ![ship](https://user-images.githubusercontent.com/46494068/163290844-ee1d9789-e190-4c59-ae93-8ea39bf2a9f4.png) &ensp; *I figure LIFE's a GIFT and I don't intend on wasting it. (Leonardo Dicaprio - Titanic)*
 
 
