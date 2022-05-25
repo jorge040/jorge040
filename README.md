@@ -3,13 +3,13 @@
 **Right now: I am currently doing professional internships**
 <br> <br>
 
-![codigo (1)](https://user-images.githubusercontent.com/46494068/163288166-c81f8114-fe50-4f5f-9cfc-1b0c04b00653.png) &ensp; Code:  Java( Basic ),  HTML( medium ),  CSS ( medium ),  Python ( Coming Soon )
+![codigo (1)](https://user-images.githubusercontent.com/46494068/163288166-c81f8114-fe50-4f5f-9cfc-1b0c04b00653.png) &ensp; Code:  Java( Basic ),  HTML( medium ),  CSS ( medium ),  Python ( Coming Soon ).
 
-![bases-de-datos](https://user-images.githubusercontent.com/46494068/163287788-b9ed7749-298d-493c-9d95-eb6ab0c8003b.png) &ensp; BD:  SQL ( Basic ),  NoSQL ( Basic )
+![bases-de-datos](https://user-images.githubusercontent.com/46494068/163287788-b9ed7749-298d-493c-9d95-eb6ab0c8003b.png) &ensp; BD:  SQL ( Basic ),  NoSQL ( Basic ).
 
-![mantenimiento-web](https://user-images.githubusercontent.com/46494068/163287907-ec100e6f-1dd3-4c84-b38f-da5d3cc30e16.png) &ensp; Tools: visual studio code, Azure
+![mantenimiento-web](https://user-images.githubusercontent.com/46494068/163287907-ec100e6f-1dd3-4c84-b38f-da5d3cc30e16.png) &ensp; Tools: visual studio code, Azure.
 
-![area-local](https://user-images.githubusercontent.com/46494068/163288015-a755aad1-c5f9-4787-b4f5-6c4187e80fe9.png) &ensp;  Area: Frontend, Backend, Cloud
+![area-local](https://user-images.githubusercontent.com/46494068/163288015-a755aad1-c5f9-4787-b4f5-6c4187e80fe9.png) &ensp;  Area: Frontend, Backend, Cloud.
 
 ![hackathon](https://user-images.githubusercontent.com/46494068/163288068-37a06c8e-c929-4b58-919b-47cb8e44cd4d.png) &ensp; Hackathon: Nasa Space Apps, Cyber IA, The Ocean.
 
